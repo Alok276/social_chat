@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "socialchat-bba39",
+          "appId": "1:880576531628:android:e23eea3cd1c3762b676309",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "socialchat-bba39",
+          "configurations": {
+            "android": "1:880576531628:android:e23eea3cd1c3762b676309",
+            "ios": "1:880576531628:ios:93ac6561f322e22a676309",
+            "macos": "1:880576531628:ios:93ac6561f322e22a676309",
+            "web": "1:880576531628:web:2b0bbf8f7638530e676309",
+            "windows": "1:880576531628:web:a80b709022b58b88676309"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880576531628",
+    "project_id": "socialchat-bba39",
+    "storage_bucket": "socialchat-bba39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880576531628:android:e23eea3cd1c3762b676309",
+        "android_client_info": {
+          "package_name": "com.example.socialchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQOcmTWnxmftYh-4zdH8EovP-819Sm4Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
